@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bilal758/Pipelines/_apis/build/status/bilal758.pipelines-java?branchName=master)](https://dev.azure.com/bilal758/Pipelines/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
